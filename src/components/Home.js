@@ -1,5 +1,6 @@
 import React, { useEffect } from "react";
 
+// This is the Home Component
 const Home = ({ signOut, user }) => {
   return (
     <div className="wrapper">
