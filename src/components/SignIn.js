@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import OtpInput from "react-otp-input";
 
+// This is User Signin Component
 const SignIn = ({ loginSubmit, otpSubmit, viewOtpForm, phoneNumber }) => {
   const mobile = !!(window.innerWidth < 768);
   const [otp, setOTP] = useState("");
