@@ -11,6 +11,7 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import SignIn from "./components/SignIn";
 import Home from "./components/Home";
 
+// This is entry point of the application
 const App = () => {
   const [viewOtpForm, setViewOtpForm] = useState(false);
   const [user, setUser] = useState(false);
