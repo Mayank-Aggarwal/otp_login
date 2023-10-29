@@ -1,6 +1,3 @@
-# otp_login
+# OTP Login
 
-A Login Component with Plug and Play
-
-
-*hope you liked my work* 
+A plug & play login component
