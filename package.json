@@ -1,5 +1,5 @@
 {
-  "name": "otp-login",
+  "name": "OTP Login",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
